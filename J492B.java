@@ -10,7 +10,7 @@ public class J492B
 	{
 		Scanner s = new Scanner(System.in);
 
-		int lanterns = s.nextInt();
+		int lanterns = nextInt();
 		int length = s.nextInt();
 		int maxDistance = 0;
 		int x = 0;
